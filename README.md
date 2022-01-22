@@ -2,7 +2,7 @@
 - 👀 I'm interested in - Learn software development and the rest
 - 🌱 I am now studying - the development of web resources, modules
 - 💞️ I want to collaborate on - In plans
-- 📫 How to get to me - http://starladderfpl.cssold.ru
+- 📫 How to get to me - https://starladder-project.cstrikes.ru/?page=home
 
 <!---
 PattHs/PattHs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
